@@ -1,0 +1,41 @@
+*{
+    font-family:'Inconsolata', monospace;
+    font-family: 'Roboto', sans-serif;
+}
+.parent{
+    text-align: center;
+}
+.parent1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-decoration: none;
+}
+.float{
+    float: left;
+    padding-right: 3px;
+}
+
+#educationid img{
+    float: right;
+}
+
+
+.medicalsectorimg{
+    float: left;
+    padding-right: 20px;
+}
+
+.selfemployedimg{
+    float: right;
+}
+
+.employmentimg{
+    float:left;
+    padding-right: 20px;
+}.imgrelatedtext{
+    text-align: center;
+}
+.wishes{
+    text-align: center;
+}
